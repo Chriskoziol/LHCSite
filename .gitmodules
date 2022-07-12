@@ -1,0 +1,3 @@
+[submodule "LHCSite"]
+	path = LHCSite
+	url = https://github.com/Chriskoziol/LHCSite
