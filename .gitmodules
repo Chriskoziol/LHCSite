@@ -1,4 +1,4 @@
 [submodule "LHCSite"]
 	path = LHCSite
-	url = https://lagunahousecleaning.com
+	url = https://github.com/Chriskoziol/LHCSite/tree/main/dist
 	branch = main
